@@ -1,6 +1,6 @@
 # All credits go to Enzo Ustariz whose course is available on Udemy : "coding 10 projects with React".
 
-this project is deployed at : [React-Chrono]() <br>
+this project is deployed at : [React-Chrono](https://react-chrono-enzo-udemy-cursus.vercel.app/) <br>
 the objective of this exercise was to do some algorithm with React and use : useEffect, useReducer
 
 ## Getting Started with Create React App
